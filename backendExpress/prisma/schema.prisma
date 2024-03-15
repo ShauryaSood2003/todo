@@ -10,7 +10,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://shauryasood293:oa5xA7Ylejim@ep-floral-block-a5zgwko4.us-east-2.aws.neon.tech/todoDB?sslmode=require"
+  url      = "YOUR-URL"
 }
 model User {
   id Int @id @default(autoincrement())
