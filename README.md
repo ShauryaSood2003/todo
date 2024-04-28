@@ -49,5 +49,6 @@ postgresql://postrges:password@localhost:5432/postgres
 other wise add the postgres url from the cloud provider
 
 ```
-npm run dev
+tsc -b
+node dist/index.js
 ```
