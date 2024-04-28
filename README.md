@@ -47,3 +47,7 @@ If running postgres on docker add **.env** file with url as :
 postgresql://postrges:password@localhost:5432/postgres
 ```
 other wise add the postgres url from the cloud provider
+
+```
+npm run dev
+```
